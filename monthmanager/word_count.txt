@@ -1,0 +1,35 @@
+April
+명사 wordcloud2 25이상
+
+Oct
+명사 wordcloud2 10이상
+
+Dec
+명사 wordcloud2 10이상
+
+Feb
+명사 wordcloud2 3이상
+
+Jan
+명사 wordcloud2 2이상
+
+Jul
+명사 wordcloud2 5이상
+
+Jun
+명사 wordcloud2 10이상
+
+Mar
+명사 wordcloud2 25이상
+
+May
+명사 wordcloud2 10이상
+
+Nov
+명사 wordcloud 15이상
+
+Oct
+명사 wordcloud 25이상
+
+Sep
+명사 wordcloud 50이상
